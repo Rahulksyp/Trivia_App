@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="questionFirst">What is your name?</string>
+    <string name="questionSecond">Who is the best cricketer in the world?</string>
+    <string name="questionThird">What are the colors in the Indian national flag?</string>
+
+
+    <string-array name="flagList">
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Green</item>
+    </string-array>
+</resources>
